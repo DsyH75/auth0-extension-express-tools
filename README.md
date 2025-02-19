@@ -1,5 +1,4 @@
 # Auth0 Extension Tools for Express
-
 A set of tools and utilities to simplify the development of Auth0 Extensions with Epxress.
 1
 ## Usage
