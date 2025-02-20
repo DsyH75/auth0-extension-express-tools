@@ -18,7 +18,7 @@
     "eslint": "^3.9.1",
     "eslint-config-auth0-base": "^6.0.0",
     "eslint-plugin-import": "^2.2.0",
-    "eslint-plugin-jsx-a11y": "^3.0.1",
+    "eslint-plugin-jsx-a11y": "^6.10.2",
     "faucet": "0.0.1",
     "jsonwebtoken": "^7.1.9",
     "nock": "9.0.9",
